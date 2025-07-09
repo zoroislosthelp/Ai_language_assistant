@@ -1,0 +1,21 @@
+question,answer,lang,voice
+Say "I am happy" in French,Je suis content,fr-FR,fr-FR-DeniseNeural
+Say "Where is the bathroom?" in French,Où sont les toilettes ?,fr-FR,fr-FR-DeniseNeural
+Say "Good morning" in French,Bonjour,fr-FR,fr-FR-DeniseNeural
+Say "Thank you very much" in French,Merci beaucoup,fr-FR,fr-FR-DeniseNeural
+Say "I love you" in French,Je t’aime,fr-FR,fr-FR-DeniseNeural
+Say "I am happy" in Spanish,Estoy feliz,es-ES,es-ES-ElviraNeural
+Say "Where is the bathroom?" in Spanish,¿Dónde está el baño?,es-ES,es-ES-ElviraNeural
+Say "Good morning" in Spanish,Buenos días,es-ES,es-ES-ElviraNeural
+Say "Thank you very much" in Spanish,Muchas gracias,es-ES,es-ES-ElviraNeural
+Say "I love you" in Spanish,Te quiero,es-ES,es-ES-ElviraNeural
+Say "I am happy" in German,Ich bin glücklich,de-DE,de-DE-KatjaNeural
+Say "Where is the bathroom?" in German,Wo ist die Toilette?,de-DE,de-DE-KatjaNeural
+Say "Good morning" in German,Guten Morgen,de-DE,de-DE-KatjaNeural
+Say "Thank you very much" in German,Vielen Dank,de-DE,de-DE-KatjaNeural
+Say "I love you" in German,Ich liebe dich,de-DE,de-DE-KatjaNeural
+Say "I am happy" in Hindi,Main khush hoon,hi-IN,hi-IN-SwaraNeural
+Say "Where is the bathroom?" in Hindi,Shauchalaya kahan hai?,hi-IN,hi-IN-SwaraNeural
+Say "Good morning" in Hindi,Suprabhat,hi-IN,hi-IN-SwaraNeural
+Say "Thank you very much" in Hindi,Bahut dhanyavaad,hi-IN,hi-IN-SwaraNeural
+Say "I love you" in Hindi,Main tumse pyaar karta hoon,hi-IN,hi-IN-SwaraNeural
